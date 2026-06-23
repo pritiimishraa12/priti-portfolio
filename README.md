@@ -8,7 +8,7 @@ This portfolio showcases my projects, technical skills, learning journey, and on
 
 ## Live Portfolio
 
-Portfolio Website: [Add Portfolio Link Here]
+Portfolio Website: https://pritii-portfolio.vercel.app/
 
 ## Featured Projects
 
